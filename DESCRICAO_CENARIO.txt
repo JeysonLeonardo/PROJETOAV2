@@ -1,0 +1,13 @@
+Gereciador de Matrículas
+
+O cenário escolhido possui as seguintes classes: Aluno, Curso e Disciplina.
+Onde 1 aluno pode ser matriculado em 1 curso e 1 curso pode ter várias disciplinas.
+
+Camadas:
+
+model:model
+service: resources
+DAO: repository
+
+Ferramentas utilizadas: 
+Java, Springboot, Maven, Hibernate, MySQL, Swagger.
